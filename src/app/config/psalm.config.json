@@ -1,0 +1,25 @@
+{
+  "heading": {
+    "label": "Riferimenti biblici del salmo",
+    "required": true,
+    "show": true
+  },
+
+  "subHeading": {
+    "label": null,
+    "required": false,
+    "show": false
+  },
+
+  "body": {
+    "label": "Testo del salmo",
+    "required": true,
+    "show": true
+  },
+
+  "footer": {
+    "label": "Testo in coda al salmo",
+    "required": false,
+    "show": true
+  }
+}
